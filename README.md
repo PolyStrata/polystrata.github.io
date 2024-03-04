@@ -13,13 +13,17 @@ Beyond offering our services, Polystrata fosters a collaborative ecosystem. Over
 
 Driven by data and fuelled by trust, we forge our own path, not mimic others. 
 
-Website
+Hypertext
 https://linktr.ee/polystrata
+
 Industry
 IT System Data Services
+
 Company size
 11-50 employees
+
 Founded
 2023
+
 Specialties
 Design, Prompt Engineering, Branding, Web Design, API Integration, Start Ups, Stealth Mode Dev, Development, Content Creation, and Ai
