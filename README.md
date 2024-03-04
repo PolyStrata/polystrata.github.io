@@ -1,4 +1,3 @@
-Overview
 Polystrata transcends the limitations of mere data management. 
 We are polymaths, drawing upon a diverse tapestry of knowledge to transmute raw data into the foundational cornerstone of progress. We empower a diverse consortium of individuals, startups, and Fortune 500 companies alike, unlocking the latent potential of their data across all stages of their journeys.
 
